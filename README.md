@@ -164,6 +164,7 @@ Supported by / 支持者:
 * Jet Wong, Software Engineer, owasp
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
+* Jiadong Guo, Software Engineer, ShenZhen.China
 * Jiang Siyuan, Hunan University
 * Jiandong Shi, Developer, Nanjing, China
 * Jiaxun Pu(蒲家训), Frontend Engineer, Shanghai.China
